@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+.vscode/
+*.bin
+*.pt
+*.tar.gz
+emory_models/
